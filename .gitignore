@@ -1,0 +1,5 @@
+swynex_env/
+__pycache__/
+*.pyc
+.streamlit/
+.env
